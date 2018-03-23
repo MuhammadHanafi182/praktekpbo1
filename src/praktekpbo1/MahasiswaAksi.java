@@ -10,5 +10,9 @@ package praktekpbo1;
  * @author Hanafi
  */
 public class MahasiswaAksi {
+    public static void main(String[] args) {
+        Mahasiswa Harry = new Mahasiswa ();
+        
+    }
     
 }

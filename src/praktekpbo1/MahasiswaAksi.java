@@ -17,6 +17,7 @@ public class MahasiswaAksi {
         Harry.NPM="16632000";
         Harry.IPK=3.4;
         
+        Harry.cetakinfo();
         
     }
     
